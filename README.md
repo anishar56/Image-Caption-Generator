@@ -1,2 +1,2 @@
-# Image Caption Generator
+# Intership-project-Image-caption-generator 
  
